@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+Q3XOAhziG2mwziR6mfCyGPuI+fLcpR+yBejnBZoAcWvtjzkzqzG8eWwhnUhXkXLw+PRbmB7wu7TnWvn6khlQ==",
+  "success": true,
+  "projectFilePath": "/Users/mc99908/RiderProjects/MidYearProject-ConsumerProducer problem/MidYearProject-ConsumerProducer problem/MidYearProject-ConsumerProducer problem.csproj",
+  "expectedPackageFiles": [
+    "/Users/mc99908/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.24/microsoft.netcore.app.host.osx-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
